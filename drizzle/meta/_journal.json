@@ -1,19 +1,19 @@
 {
   "version": "5",
-  "dialect": "mysql",
+  "dialect": "pg",
   "entries": [
     {
       "idx": 0,
       "version": "5",
-      "when": 1689775297511,
-      "tag": "0000_familiar_harry_osborn",
+      "when": 1689856852445,
+      "tag": "0000_clever_paladin",
       "breakpoints": true
     },
     {
       "idx": 1,
       "version": "5",
-      "when": 1689776820773,
-      "tag": "0001_massive_reptil",
+      "when": 1689865150181,
+      "tag": "0001_exotic_talos",
       "breakpoints": true
     }
   ]
